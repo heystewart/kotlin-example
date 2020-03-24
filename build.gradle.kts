@@ -10,6 +10,7 @@ plugins {
 
 kotlin {
     js {
+        produceExecutable()
         browser()
     }
 

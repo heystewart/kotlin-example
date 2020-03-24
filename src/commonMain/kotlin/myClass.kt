@@ -1,4 +1,8 @@
+package myPackage
 
-@JsExport
-class MyClass {
+expect annotation class CommonJsExport()
+
+@CommonJsExport
+open class MyClass {
+  var myString: String = "Bob"
 }
