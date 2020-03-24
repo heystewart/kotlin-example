@@ -1,5 +1,7 @@
 #
 
+NOTE: See the branch 'workaround' for a workaround from bug https://youtrack.jetbrains.com/issue/KT-35966
+
 Example of the failure
 
 gradle build
